@@ -13,10 +13,10 @@ const Navbar = () => {
 
   return (
     <nav className="fixed top-0 left-0 w-full bg-black bg-opacity-80 backdrop-blur-md z-50 shadow-lg">
-      <div className=" px-10 py-4 flex items-center justify-between">
+      <div className=" px-10 py-5 flex items-center justify-between ">
         {/* 网站 Logo */}
-        <div className="text-2xl md:text-3xl font-bold text-neonGreen">
-          <Link to="/" className="flex items-center space-x-2">
+        <div className="text-3xl md:text-3xl font-bold text-neonGreen ">
+          <Link to="/" className="text-4xl flex items-center space-x-2 ">
             {/* 可添加 Logo 图标 */}
             {/* <img src="/path/to/logo.png" alt="Logo" className="h-8 w-8" /> */}
             <span>{t("logo")}</span>
@@ -27,7 +27,7 @@ const Navbar = () => {
           <li>
             <Link
               to="/"
-              className="hover:text-neonBlue transition-colors duration-300"
+              className="text-2xl hover:text-neonBlue transition-colors duration-300  mx-3"
             >
               {t("home")}
             </Link>
@@ -35,7 +35,7 @@ const Navbar = () => {
           <li>
             <Link
               to="/tool1"
-              className="hover:text-neonBlue transition-colors duration-300"
+              className="text-2xl hover:text-neonBlue transition-colors duration-300  mx-3"
             >
               {t("tool1")}
             </Link>
@@ -43,7 +43,7 @@ const Navbar = () => {
           <li className="relative">
             <Link
               to="/tool2"
-              className="hover:text-neonBlue transition-colors duration-300"
+              className="text-2xl hover:text-neonBlue transition-colors duration-300  mx-3"
             >
               {t("tool2")}
             </Link>
@@ -54,7 +54,7 @@ const Navbar = () => {
           <li>
             <Link
               to="/donations"
-              className="hover:text-neonBlue transition-colors duration-300"
+              className="text-2xl  hover:text-neonBlue transition-colors duration-300  mx-3"
             >
               {t("donations")}
             </Link>

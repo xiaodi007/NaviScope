@@ -48,7 +48,7 @@ const Home = () => {
               <div className="flex justify-center mb-6">
                 {/* <img src="/icons/feature1.svg" alt="Feature 1" className="w-20 h-20" /> */}
               </div>
-              <h3 className="text-2xl font-semibold mb-4 text-neonBlue">
+              <h3 className="text-2xl font-semibold mb-4 text-neonGreen">
                 {t('feature1_title')}
               </h3>
               <p className="text-gray-300">
@@ -60,7 +60,7 @@ const Home = () => {
               <div className="flex justify-center mb-6">
                 {/* <img src="/icons/feature2.svg" alt="Feature 2" className="w-20 h-20" /> */}
               </div>
-              <h3 className="text-2xl font-semibold mb-4 text-neonBlue">
+              <h3 className="text-2xl font-semibold mb-4 text-neonGreen">
                 {t('feature2_title')}
               </h3>
               <p className="text-gray-300">
@@ -71,7 +71,7 @@ const Home = () => {
               <div className="flex justify-center mb-6">
                 {/* <img src="/icons/feature3.svg" alt="Feature 3" className="w-20 h-20" /> */}
               </div>
-              <h3 className="text-2xl font-semibold mb-4 text-neonBlue">
+              <h3 className="text-2xl font-semibold mb-4 text-neonGreen">
                 {t('feature3_title')}
               </h3>
               <p className="text-gray-300">
