@@ -1,0 +1,12 @@
+{
+    "title": "借出资产",
+    "asset": "资产",
+    "apy": "APY",
+    "borrow_incentive": "Borrow Incentive",
+    "price": "价格",
+    "amount": "数量",
+    "value": "价值",
+    "total_borrow_value": "总借款价值",
+    "remaining_loanable_value": "剩余可借价值",
+    "health_factor": "健康因子"
+  }

@@ -1,0 +1,12 @@
+{
+  "title": "健康因子模拟",
+  "probability_below_1": "健康因子小于1的概率",
+  "day": "天",
+  "health_factor_distribution": "{{day}} 天健康因子分布",
+  "note_health_factor_less_than": "健康因子小于 {{value}} 的部分已高亮显示",
+  "highlighted_area": "高亮区域",
+  "probability": "概率 (%)",
+  "health_factor": "健康因子",
+  "calculate_simulation": "计算模拟",
+  "loading_simulation": "正在运行模拟，请稍候..."
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Health Factor Simulation",
+  "probability_below_1": "Probability of Health Factor Below 1",
+  "day": " Day",
+  "health_factor_distribution": "{{day}} Day Health Factor Distribution",
+  "note_health_factor_less_than": "Health Factor less than {{value}} is highlighted",
+  "highlighted_area": "Highlighted Area",
+  "probability": "Probability (%)",
+  "health_factor": "Health Factor",
+  "calculate_simulation": "Calculate Simulation",
+  "loading_simulation": "Running simulation, please wait..."
+}

@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 自定义样式 */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #0A0F1F;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  outline: none;
+}
+
+.neon-text {
+  color: #008CBA;
+  text-shadow: 0 0 10px rgba(225, 255, 225, 0.75);
+}

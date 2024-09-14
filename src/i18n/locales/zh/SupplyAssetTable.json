@@ -1,0 +1,13 @@
+{
+    "title": "存入资产",
+    "asset": "资产",
+    "apy": "APY",
+    "max_ltv": "最大可贷比例",
+    "price": "资产价格",
+    "amount": "数量",
+    "value": "价值",
+    "loanable_value": "可贷价值",
+    "total_collateral_value": "总抵押价值",
+    "total_apy_Value": "年化收益价值",
+    "total_loanable_value": "总可贷价值"
+  }

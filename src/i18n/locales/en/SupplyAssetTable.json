@@ -1,0 +1,13 @@
+{
+    "title": "Supply Assets",
+    "asset": "Asset",
+    "apy": "APY",
+    "max_ltv": "Max LTV",
+    "price": "Price",
+    "amount": "Amount",
+    "value": "Value",
+    "loanable_value": "Loanable Value",
+    "total_collateral_value": "Total Collateral Value",
+    "total_apy_Value": "Total APY Value",
+    "total_loanable_value": "Total Loanable Value"
+  }

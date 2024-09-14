@@ -1,0 +1,12 @@
+{
+    "title": "Borrow Assets",
+    "asset": "Asset",
+    "apy": "APY",
+    "borrow_incentive": "Borrow Incentive",
+    "price": "Price",
+    "amount": "Amount",
+    "value": "Value",
+    "total_borrow_value": "Total Borrow Value",
+    "remaining_loanable_value": "Remaining Loanable Value",
+    "health_factor": "Health Factor"
+  }
