@@ -1,5 +1,5 @@
 import { useTranslation } from 'react-i18next';
-import Navbar from '../components/navbar';
+import Navbar from '../components/Navbar';
 
 const Home = () => {
   const { t } = useTranslation('home');
